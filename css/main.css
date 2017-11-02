@@ -1,0 +1,47 @@
+.header {
+  position: fixed;
+  max-width: 100%;
+  height: auto;
+  border-top: 2px solid #000;
+}
+.AboutMults {
+  position: fixed;
+  margin-top: 6.7%;
+  font-size: 40px;
+  font-family: "UniSansHeavy",sans-serif;
+}
+.logo {
+  position: fixed;
+  margin-left: 13.5%;
+  margin-top: 6%;
+  max-width: 100%;
+  height: auto;
+}
+.info{
+  position: fixed;
+  margin-top: 6.2%;
+  margin-left: 90%;
+  font-size: 48px;
+  font-family: "UniSansHeavy",sans-serif;
+  }
+.slogan {
+  margin-top: -6%;
+  max-width: 100%;
+  height: auto;
+  margin-left: 22%;
+}
+.scroll-down {
+  margin-top: -10%;
+  margin-left: 44%;
+}
+.japanese {
+  max-width: 100%;
+  height: auto;
+  margin-top: -8%;
+}
+.sssr {
+  max-width: 100%;
+  height: auto;
+  margin-top: -42.5%;
+  margin-left: 23%;
+}
